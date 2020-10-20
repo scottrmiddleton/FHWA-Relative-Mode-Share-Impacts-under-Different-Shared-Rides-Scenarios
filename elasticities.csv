@@ -1,0 +1,19 @@
+Peak,Segment,tnc_dollar,tnc_minute,nonshare_dollar,carpool_reward
+1,All,0.08246875,0.4034053,-0.3,0.01
+1,Income <$50k,0.04866911,0.4054364,-0.3,0.01
+1,Dense Office District: Begin Only,0.2746945,0.2761589,-0.3,0.01
+1,Dense Office District: End Only,0.04050015,0.4386941,-0.3,0.01
+1,Dense Office District: Begin and End,0.01599626,0.4074247,-0.3,0.01
+1,Competitive Transit: Begin Only,0.2732758,0.5624145,-0.3,0.01
+1,Competitive Transit: End Only,0.2010984,0.4225311,-0.3,0.01
+1,Competitive Transit: Begin and End,0.01203833,0.4364766,-0.3,0.01
+1,To/From Airport,0.02943885,0.2566679,-0.3,0.01
+0,All,0.08616304,0.3325696,-0.3,0.01
+0,Income <$50k,0.1530978,0.2050515,-0.3,0.01
+0,Dense Office District: Begin Only,0.2235933,0.3388888,-0.3,0.01
+0,Dense Office District: End Only,0.08909975,0.4462,-0.3,0.01
+0,Dense Office District: Begin and End,0.01599626,0.3651193,-0.3,0.01
+0,Competitive Transit: Begin Only,0.04711272,0.4130597,-0.3,0.01
+0,Competitive Transit: End Only,0.2008619,0.419401,-0.3,0.01
+0,Competitive Transit: Begin and End,0.01203833,0.3568057,-0.3,0.01
+0,To/From Airport,0.02943885,0.4165248,-0.3,0.01

@@ -1,0 +1,19 @@
+Peak,Segment,VMT_share,source
+1,All,1,100 percent
+1,Income <$50k,0.3164683,tnc data
+1,Dense Office District: Begin Only,0.2238366,tnc data
+1,Dense Office District: End Only,0.2124604,tnc data
+1,Dense Office District: Begin and End,0.2527462,tnc data
+1,Competitive Transit: Begin Only,0.1711875,tnc data
+1,Competitive Transit: End Only,0.1605276,tnc data
+1,Competitive Transit: Begin and End,0.1894125,tnc data
+1,To/From Airport,0.008917573,nhts 
+0,All,0.3598364,tnc data
+0,Income <$50k,0.1051306,tnc data
+0,Dense Office District: Begin Only,0.05991417,tnc data
+0,Dense Office District: End Only,0.09744813,tnc data
+0,Dense Office District: Begin and End,0.09613779,tnc data
+0,Competitive Transit: Begin Only,0.05086151,tnc data
+0,Competitive Transit: End Only,0.0631619,tnc data
+0,Competitive Transit: Begin and End,0.06673861,tnc data
+0,To/From Airport,0.003208867,product of t-/from airport share for all trips times share of peak trips
