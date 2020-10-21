@@ -36,12 +36,12 @@ Step 2. To install required packages, open RStudio and run "install.packages(c(	
 
 -In RStudio, open the file "policy_tool.Rproj"
 -In the console, enter the code: "shiny::runApp()" without the quotation marks.
-Tool will locally, with the option to view in browser. 
+-Tool will open locally, with the option to view in browser. 
 -All required files are included in the zipped folder. No files other than 
 "policy_tool.Rproj" need to be opened for tool to run correctly.
 
 ## Building
-Code does not require any type of build/compilation, specify that here.*
+Code does not require any type of build/compilation.
 
 ## Testing
 Test cases are automatically run as part of the build process.
