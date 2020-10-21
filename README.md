@@ -17,7 +17,7 @@ This repository contains the source code of the scenario analysis tool developed
 
 # Project Description: Analysis of Travel Choices and Scenarios for Sharing Rides
 
-This repo contains analytical code developed for the FHWA sponsored project on Analysis of Travel Choices and Scenarios for Sharing Rides. Using survey data from a large Transportation Network Company (TNC) and other data sources, the project formulated various scenarios with the intention of better understanding use of higher-occupancy options for ridesharing services. The scenarios incorporated research findings on the use of shared rides in the context of TNCs and also price changes for personal vehicle travel.  The analytical code allows a user to understand of how changes in trip cost and travel time affect shared ride choices for various market segmentations. The code is created in R Shiny and is available to users as described in this README document. 
+This repository contains analytical code developed for the FHWA sponsored project on Analysis of Travel Choices and Scenarios for Sharing Rides. Using survey data from a large Transportation Network Company (TNC) and other data sources, the project formulated various scenarios with the intention of better understanding use of higher-occupancy travel options, including ridesharing and carpooling. The scenarios incorporated research findings on the use of shared rides in the context of TNCs and also price changes for personal vehicle travel.  The analytical code allows a user to understand how changes in trip cost and travel time affect shared ride choices for various market segmentations. The code is created in R Shiny and is available to users as described in this README document. 
 
 # Prerequisites
 
