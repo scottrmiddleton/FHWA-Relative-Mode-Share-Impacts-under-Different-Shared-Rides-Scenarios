@@ -6,9 +6,8 @@ This repository contains the source code of the scenario analysis tool developed
 # Organizational Outline:
 * Project Description
 * Prerequisites
-* Authors
+* Usage
 * Additional Notes
-* Required Files
 * Version History and Retention
 * License
 * Contributions
@@ -88,7 +87,7 @@ This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0).
 
 # Contributions
 
-Please read (CONTRIBUTING.md) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
 
 # Contact Information
 
