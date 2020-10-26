@@ -84,7 +84,7 @@ All files are required for the tool to run correctly.
 
 # License
 
-This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0). See (License) for more details. 
+This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0). See (License.html) for more details. 
 
 # Contributions
 
