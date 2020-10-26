@@ -32,12 +32,12 @@ Step 1. If not already available, download and install the RStudio development e
 Step 2. To install required packages, open RStudio and run "install.packages(c(	"shiny"","tidyverse","plotly","rsconnect","shinyBS","scales","reshape2",
 "basictabler","shinydashboard"))"
 
-### Usage
+# Usage
 
--In RStudio, open the file "policy_tool.Rproj"
--In the console, enter the code: "shiny::runApp()" without the quotation marks.
--Tool will open locally, with the option to view in browser. 
--All required files are included in the zipped folder. No files other than 
+- In RStudio, open the file "policy_tool.Rproj"
+- In the console, enter the code: "shiny::runApp()" without the quotation marks.
+- Tool will open locally, with the option to view in browser. 
+- All required files are included in the zipped folder. No files other than 
 "policy_tool.Rproj" need to be opened for tool to run correctly.
 
 ## Building
@@ -49,7 +49,53 @@ Test cases are automatically run as part of the build process.
 ## Execution
 Tool can be used directly in RStudio. User will be able to modify scenario details and run analysis by following the point-and-click instructions in the associated report and using the tool tips indicated by question marks in the user interface. 
 
-# Authors
+# Additional Notes
+
+All required files are included in the zipped folder. No files other than 
+"policy_tool.Rproj" need to be opened for tool to run correctly. Tool will not work correctly in Internet Explorer, but can be used in other major browsers as well as in RStudio.  
+
+## Required Files
+The zipped folder includes the following files:
+
+R Files:
+- policy_tool.Rproj
+- server.R
+- ui.R
+
+Data Files:
+- elasticities.csv
+- mode_share_by_city.csv
+- trip_cost_by_city.csv
+- vmt_share_by_segment.csv
+
+Image Files (in www folder):
+- tree_diagram.png
+- question.png
+
+All files are required for the tool to run correctly. 
+
+# Version History and Retention
+
+**Status:** This project is in the release phase.
+
+**Release Frequency:** This project is not intended for regular update
+
+**Release History: See [CHANGELOG.md](CHANGELOG.md)**
+
+# License
+
+This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0). See the (License.MD) for more details. 
+
+# Contributions
+
+Please read (CONTRIBUTING.md) for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
+
+# Contact Information
+
+Contact Name: Allen Greenberg
+Contact Information: Allen.Greenberg@dot.gov,  (202) 366-2425
+
+## Authors
 
 Scott Middleton
 EBP US 
@@ -65,52 +111,6 @@ Deepak Gopalakrishna
 ICF International 
 9300 Lee Hwy, Fairfax, VA 22031
 Deepak.Gopalakrishna@icf.com, tel: 202-862-1564
-
-# Additional Notes
-
-All required files are included in the zipped folder. No files other than 
-"policy_tool.Rproj" need to be opened for tool to run correctly. Tool will not work correctly in Internet Explorer, but can be used in other major browsers as well as in RStudio.  
-
-# Required Files
-The zipped folder includes the following files:
-
-R Files:
--policy_tool.Rproj
--server.R
--ui.R
-
-Data Files:
--elasticities.csv
--mode_share_by_city.csv
--trip_cost_by_city.csv
--vmt_share_by_segment.csv
-
-Image Files (in www folder):
--tree_diagram.png
--question.png
-
-All files are required for the tool to run correctly. 
-
-# Version History and Retention
-
-**Status:** This project is in the release phase.
-
-**Release Frequency:** This project is not intended for regular update
-
-**Release History: See [CHANGELOG.md](CHANGELOG.md)**
-
-# License
-
-This project is licensed under the Creative Commons 1.0 Universal (CC0 1.0) License - see the [License.MD] for more details. 
-
-# Contributions
-
-Please read [CONTRIBUTING.md] for details on our Code of Conduct, the process for submitting pull requests to us, and how contributions will be released.
-
-# Contact Information
-
-Contact Name: Allen Greenberg
-Contact Information: Allen.Greenberg@dot.gov,  (202) 366-2425
 
 # Acknowledgements
 
