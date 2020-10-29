@@ -113,4 +113,5 @@ Deepak.Gopalakrishna@icf.com, tel: 202-862-1564
 
 # Acknowledgements
 
-To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge FHWA Report No. FHWA-HOP-20-XXX in your software's README/documentation.
+To track how this government-funded code is used, we request that if you decide to build additional software using this code please acknowledge its Digital Object Identifier in your software’s README/documentation. Digital Object Identifier: https://doi.org/10.21949/1520429
+
